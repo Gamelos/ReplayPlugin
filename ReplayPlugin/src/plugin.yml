@@ -1,0 +1,9 @@
+name: Replay
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.replay.Main
+
+commands:
+  play:
+  record:
